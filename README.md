@@ -6,4 +6,4 @@ Los autores somos:
   Cristian Jimenez -
   Alexander Roa -
   Diego Lengyel -
-  Santiago Colmenares -
+  Santiago Colmenares
