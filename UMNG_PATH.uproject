@@ -35,6 +35,10 @@
 				"Android",
 				"IOS"
 			]
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
