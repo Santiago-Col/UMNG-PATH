@@ -39,12 +39,17 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Linux",
 		"Mac",
 		"Windows",
-		"Android"
+		"Android",
+		"WindowsNoEditor"
 	]
 }
